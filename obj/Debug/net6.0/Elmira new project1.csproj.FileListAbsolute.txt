@@ -1,0 +1,15 @@
+C:\Users\Эльмира\Desktop\Мое обучение\4.Знакомство с языками программирования\Elmira new project\Elmira new project1\bin\Debug\net6.0\Elmira new project1.exe
+C:\Users\Эльмира\Desktop\Мое обучение\4.Знакомство с языками программирования\Elmira new project\Elmira new project1\bin\Debug\net6.0\Elmira new project1.deps.json
+C:\Users\Эльмира\Desktop\Мое обучение\4.Знакомство с языками программирования\Elmira new project\Elmira new project1\bin\Debug\net6.0\Elmira new project1.runtimeconfig.json
+C:\Users\Эльмира\Desktop\Мое обучение\4.Знакомство с языками программирования\Elmira new project\Elmira new project1\bin\Debug\net6.0\Elmira new project1.dll
+C:\Users\Эльмира\Desktop\Мое обучение\4.Знакомство с языками программирования\Elmira new project\Elmira new project1\bin\Debug\net6.0\Elmira new project1.pdb
+C:\Users\Эльмира\Desktop\Мое обучение\4.Знакомство с языками программирования\Elmira new project\Elmira new project1\obj\Debug\net6.0\Elmira new project1.csproj.AssemblyReference.cache
+C:\Users\Эльмира\Desktop\Мое обучение\4.Знакомство с языками программирования\Elmira new project\Elmira new project1\obj\Debug\net6.0\Elmira new project1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Эльмира\Desktop\Мое обучение\4.Знакомство с языками программирования\Elmira new project\Elmira new project1\obj\Debug\net6.0\Elmira new project1.AssemblyInfoInputs.cache
+C:\Users\Эльмира\Desktop\Мое обучение\4.Знакомство с языками программирования\Elmira new project\Elmira new project1\obj\Debug\net6.0\Elmira new project1.AssemblyInfo.cs
+C:\Users\Эльмира\Desktop\Мое обучение\4.Знакомство с языками программирования\Elmira new project\Elmira new project1\obj\Debug\net6.0\Elmira new project1.csproj.CoreCompileInputs.cache
+C:\Users\Эльмира\Desktop\Мое обучение\4.Знакомство с языками программирования\Elmira new project\Elmira new project1\obj\Debug\net6.0\Elmira new project1.dll
+C:\Users\Эльмира\Desktop\Мое обучение\4.Знакомство с языками программирования\Elmira new project\Elmira new project1\obj\Debug\net6.0\refint\Elmira new project1.dll
+C:\Users\Эльмира\Desktop\Мое обучение\4.Знакомство с языками программирования\Elmira new project\Elmira new project1\obj\Debug\net6.0\Elmira new project1.pdb
+C:\Users\Эльмира\Desktop\Мое обучение\4.Знакомство с языками программирования\Elmira new project\Elmira new project1\obj\Debug\net6.0\Elmira new project1.genruntimeconfig.cache
+C:\Users\Эльмира\Desktop\Мое обучение\4.Знакомство с языками программирования\Elmira new project\Elmira new project1\obj\Debug\net6.0\ref\Elmira new project1.dll

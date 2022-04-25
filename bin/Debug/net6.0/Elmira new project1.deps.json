@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Elmira new project1/1.0.0": {
+        "runtime": {
+          "Elmira new project1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Elmira new project1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
